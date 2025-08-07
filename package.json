@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "fundamentals",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hsbc-hyderabad-linux154.neueda.com:js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "MJ",
+  "license": "ISC",
+  "dependencies": {
+    "escape": "^0.0.1",
+    "escape-html": "^1.0.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
+  }
+}

@@ -1,0 +1,1 @@
+this sentence is taken from input and changed to lower case and then added to another file.
